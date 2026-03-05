@@ -84,7 +84,11 @@ dags/
 └── dag_orchestrate_parent.py           # Parent orchestrator DAG
 ```
 
-## Key DAGs Overview
+
+
+## <img width="1662" height="832" alt="Airflow" src="https://github.com/user-attachments/assets/d805cc5a-127b-420c-a8e5-310e8d6f7e6d" />
+<img width="1902" height="856" alt="Airflow UI" src="https://github.com/user-attachments/assets/d205a17a-517f-4664-affc-731da635afa2" />
+
 
 ### Foundation
 - **1_first_dag.py** - Basic TaskFlow API structure with linear dependencies
@@ -174,3 +178,4 @@ extract >> transform
 
 - [Apache Airflow Docs](https://airflow.apache.org/docs/)
 - [Astronomer Academy](https://academy.astronomer.io/) - Free courses
+
