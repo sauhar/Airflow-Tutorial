@@ -1,0 +1,1 @@
+{"timestamp":"2026-03-05T05:55:45.914023Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/12_special_schedule.py","logger":"airflow.models.dagbag.BundleDagBag","filename":"dagbag.py","lineno":593}
