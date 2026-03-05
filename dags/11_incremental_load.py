@@ -28,7 +28,5 @@ def incremental_load_dag():
     #Defining the task dependencies
     incremental_data_fetch()>>incremental_data_process()
 
-
-
 #Instantiating the DAG
 incremental_load_dag()
